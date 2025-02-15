@@ -1,0 +1,4 @@
+Margherita;Tomato,Mozzarella,Basil;8.99
+Pepperoni;Tomato,Mozzarella,Pepperoni;10.99
+Veggie;Tomato,Mozzarella,Peppers,Onions,Olives;9.99
+BBQ Chicken;BBQ Sauce,Mozzarella,Chicken,Onions;12.99
